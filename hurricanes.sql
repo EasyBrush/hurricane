@@ -1,0 +1,1 @@
+create table atlantic_hurricans (year integer PRIMARY KEY,tropical_storms integer,hurricanes integer,major_hurricanes integer,deaths text,damage text,notes text);
